@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-11-09 02:24:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2022-11-05 01:09:52 +0900"
@@ -485,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2022-11-09 02:16:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-11-05 01:14:02 +0900"
@@ -548,6 +560,12 @@
       "minecraft:zombie": "2022-11-05 02:15:42 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-11-09 02:15:10 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -795,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-11-09 02:16:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2022-11-05 01:28:48 +0900"
@@ -915,6 +939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-11-09 02:15:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2022-11-05 02:21:20 +0900"
@@ -930,6 +960,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-11-05 02:21:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-11-09 02:16:34 +0900"
     },
     "done": true
   },
@@ -1064,6 +1100,7 @@
       "minecraft:old_growth_pine_taiga": "2022-11-05 07:45:26 +0900",
       "minecraft:taiga": "2022-11-05 01:11:55 +0900",
       "minecraft:frozen_river": "2022-11-05 01:08:25 +0900",
+      "minecraft:birch_forest": "2022-11-09 02:15:02 +0900",
       "minecraft:windswept_hills": "2022-11-05 04:46:12 +0900",
       "minecraft:beach": "2022-11-05 04:32:17 +0900",
       "minecraft:river": "2022-11-05 04:36:49 +0900",
@@ -1076,6 +1113,7 @@
       "minecraft:lush_caves": "2022-11-05 03:45:42 +0900",
       "minecraft:ice_spikes": "2022-11-05 04:47:38 +0900",
       "minecraft:frozen_ocean": "2022-11-05 04:39:04 +0900",
+      "minecraft:ocean": "2022-11-09 02:02:51 +0900",
       "minecraft:snowy_beach": "2022-11-05 04:38:46 +0900",
       "minecraft:windswept_gravelly_hills": "2022-11-05 04:31:04 +0900",
       "minecraft:plains": "2022-11-05 04:29:57 +0900"
@@ -1384,6 +1422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-11-09 02:16:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2022-11-05 01:16:40 +0900"
@@ -1486,6 +1530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2022-11-08 02:10:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2022-11-05 01:28:50 +0900"
@@ -1563,6 +1613,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2022-11-05 03:15:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-11-09 02:16:34 +0900"
     },
     "done": true
   },
@@ -1950,6 +2006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-11-09 02:16:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2022-11-05 05:19:33 +0900"
@@ -2019,6 +2081,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-11-05 07:10:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-11-09 02:16:34 +0900"
     },
     "done": true
   },
@@ -2388,6 +2456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-11-09 02:16:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-11-05 02:38:55 +0900"
@@ -2409,6 +2483,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-11-05 07:26:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-11-09 02:24:09 +0900"
     },
     "done": true
   },
@@ -2439,6 +2519,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2022-11-07 00:29:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-11-09 02:16:34 +0900"
     },
     "done": true
   },
