@@ -1,0 +1,13 @@
+# directory
+libraries/
+logs/
+versions/
+
+# files
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+server-*.jar
+usercache.json
+whitelist.json
