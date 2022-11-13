@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-11-14 01:10:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-11-05 02:33:09 +0900"
@@ -347,7 +353,8 @@
       "sweet_berries": "2022-11-05 02:04:38 +0900",
       "baked_potato": "2022-11-12 02:28:30 +0900",
       "porkchop": "2022-11-12 02:11:56 +0900",
-      "mutton": "2022-11-05 01:24:27 +0900"
+      "mutton": "2022-11-05 01:24:27 +0900",
+      "rotten_flesh": "2022-11-14 02:13:45 +0900"
     },
     "done": false
   },
@@ -933,9 +940,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-11-14 01:10:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-11-05 02:53:21 +0900",
+      "minecraft:spider": "2022-11-14 01:08:36 +0900",
       "minecraft:zombie": "2022-11-05 01:17:53 +0900"
     },
     "done": false
@@ -1390,6 +1404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2022-11-14 01:09:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-11-05 01:18:39 +0900"
@@ -1537,6 +1557,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-11-05 03:00:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2022-11-14 01:09:47 +0900"
     },
     "done": true
   },
@@ -1766,6 +1792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2022-11-14 01:10:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2022-11-07 00:59:05 +0900"
@@ -1775,6 +1807,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-11-05 02:21:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-11-14 01:08:37 +0900"
     },
     "done": true
   },
